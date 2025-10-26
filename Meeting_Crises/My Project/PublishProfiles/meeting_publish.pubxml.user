@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\ahmed.essamm\Desktop\meeting_publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BouncyCastle.Crypto.dll">
+      <publishTime>08/06/2025 13:22:18</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>08/06/2025 13:22:18</publishTime>
+    </File>
+    <File Include="bin/Meeting_Crises.dll">
+      <publishTime>10/01/2025 16:10:08</publishTime>
+    </File>
+    <File Include="bin/Meeting_Crises.xml">
+      <publishTime>10/01/2025 16:10:08</publishTime>
+    </File>
+    <File Include="Committees.aspx">
+      <publishTime>08/10/2025 11:56:28</publishTime>
+    </File>
+    <File Include="CurrentMeetingReport.aspx">
+      <publishTime>10/01/2025 15:19:52</publishTime>
+    </File>
+    <File Include="FinalReport.aspx">
+      <publishTime>10/01/2025 15:20:47</publishTime>
+    </File>
+    <File Include="fonts/arial.ttf">
+      <publishTime>08/06/2025 14:31:34</publishTime>
+    </File>
+    <File Include="fonts/arialbd.ttf">
+      <publishTime>08/06/2025 14:31:34</publishTime>
+    </File>
+    <File Include="fonts/arialbi.ttf">
+      <publishTime>08/06/2025 14:31:35</publishTime>
+    </File>
+    <File Include="fonts/ariali.ttf">
+      <publishTime>08/06/2025 14:31:35</publishTime>
+    </File>
+    <File Include="fonts/ARIALN.TTF">
+      <publishTime>08/06/2025 14:31:35</publishTime>
+    </File>
+    <File Include="fonts/ARIALNB.TTF">
+      <publishTime>08/06/2025 14:31:35</publishTime>
+    </File>
+    <File Include="fonts/ARIALNBI.TTF">
+      <publishTime>08/06/2025 14:31:35</publishTime>
+    </File>
+    <File Include="fonts/ARIALNI.TTF">
+      <publishTime>08/06/2025 14:31:35</publishTime>
+    </File>
+    <File Include="fonts/ariblk.ttf">
+      <publishTime>08/06/2025 14:31:35</publishTime>
+    </File>
+    <File Include="images/meeting.jpg">
+      <publishTime>08/05/2025 11:54:16</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>09/30/2025 10:52:47</publishTime>
+    </File>
+    <File Include="Main.aspx">
+      <publishTime>10/01/2025 15:41:31</publishTime>
+    </File>
+    <File Include="MeetingReport.aspx">
+      <publishTime>10/01/2025 15:44:15</publishTime>
+    </File>
+    <File Include="MeetingResults.aspx">
+      <publishTime>10/01/2025 15:45:00</publishTime>
+    </File>
+    <File Include="NewMeeting.aspx">
+      <publishTime>10/01/2025 15:53:19</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/06/2025 13:22:20</publishTime>
+    </File>
+    <File Include="TopicReport.aspx">
+      <publishTime>10/01/2025 15:49:37</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/10/2025 15:10:05</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
